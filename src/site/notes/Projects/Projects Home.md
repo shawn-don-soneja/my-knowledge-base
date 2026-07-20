@@ -48,9 +48,9 @@ graph TD
 		A -- "`health-tracker<br>macro-dashboard`" --> B
 		B[Application APIs]
 		B --> C[("`DyanmoDB
-		<code>Financial_Data_Macro</code>`")]
+		<code>Financial_Data_Macro</code>`")]:::hasCode
 		B --> D[("`Supabase
-		<code>health_tracker</code>`")]
+		<code>health_tracker</code>`")]:::hasCode
 	end
 	subgraph "private"
 		E[Frontend Multiple Pages]
@@ -58,11 +58,12 @@ graph TD
 		E -- "`algo-trader<br>fun`" --> F
 		F --> G[("`DyanmoDB
 		<code>Financial_Data_Orders
-		Notes</code>`")]
+		Notes</code>`")]:::hasCode
 		F --> H[("`Supabase
-		<code>Financial_Agents</code>`")]
+		<code>Financial_Agents</code>`")]:::hasCode
 		F --> I[Alpaca]:::other
 	end
 	
 	classDef other fill:lightblue
+	classDef hasCode fill:darkgreen
 ```
