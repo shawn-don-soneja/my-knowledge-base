@@ -9,7 +9,7 @@ Linear Algebra
 
 Calculus
 
-[[Statistics\|Statistics]]
+[[Level 2/Statistics\|Statistics]]
 
 Great overview of all the facets of Math:
 https://mathworld.wolfram.com
