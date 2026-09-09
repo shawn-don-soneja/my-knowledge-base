@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/level-1/history/","dg-note-properties":{}}
 ---
 
-
+[]()
 > "Those who cannot remember the past are condemned to repeat it." — George Santayana
 
 ### Ancient History (c. 3400 BCE – 476 CE)
