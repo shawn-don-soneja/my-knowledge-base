@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/level-1/law/","dg-note-properties":{}}
 ---
 
+The `Law`, or the "Legal System" refers to the accepted and defined rules by why we govern our society. It involves "rights", policing, and how various scenarios and disputes are to be handled.
+
 [[Level 2/Taxation\|Taxation]]
 
 System of rules created by society to maintain order

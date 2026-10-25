@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/level-1/economics/","dg-note-properties":{}}
 ---
 
+> `Economics` refers to the movement and role of **money** in today's society. Synonymous with "money" are: wealth, capital, currency.
+> 
+> Money in this case is exchanging "value". There are many ways to *accrue* this value. Standardizing value allows for people to exchange it for "goods and services". A.k.a, things, and people's labor or contributions.
+
 [[Level 2/Taxation\|Taxation]]
 [[Finance 1\|Finance 1]]
 
